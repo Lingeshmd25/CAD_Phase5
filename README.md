@@ -22,8 +22,8 @@ The primary goals of utilizing big data analytics with cloud technology in healt
 # Environment:
     *window (version 11)
     *IBM Cloud
-    *Db2
-    *Watson Studio
+    *IBM Db2
+    *IBM Watson Studio
 
 # Steps:
 
