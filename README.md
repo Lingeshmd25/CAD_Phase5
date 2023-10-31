@@ -8,4 +8,15 @@ Implementing big data analytics in healthcare using cloud technology necessitate
 
  # The Goal Of The Project:  
 The primary goals of utilizing big data analytics with cloud technology in healthcare are to enhance patient outcomes and improve operational efficiency. By analyzing vast datasets, healthcare providers aim to identify patterns, predict disease trends, and personalize treatments, leading to better patient care. Additionally, optimizing resource allocation, reducing costs, and enhancing decision-making processes are key objectives. Cloud-based solutions enable seamless data processing, scalability, and integration, supporting these goals while maintaining data security and compliance with healthcare regulations.
- <img src="https://5.imimg.com/data5/SELLER/Default/2021/6/YD/SU/CA/27810709/ibm-db2-500x500.png">
+
+# Major Components:
+<p align="center">
+	<a href="#">
+	 <img src="https://5.imimg.com/data5/SELLER/Default/2021/6/YD/SU/CA/">	
+	</a>
+	<a href="#">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png" alt="hadoop" title="hadoop" width ="275" />
+	</a>
+</p>
+
+ 
