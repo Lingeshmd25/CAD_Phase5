@@ -15,7 +15,7 @@ The primary goals of utilizing big data analytics with cloud technology in healt
 	 <img src="https://d117h1jjiq768j.cloudfront.net/images/default-source/products/datadirect/data-sources/db2.png?sfvrsn=e27e2c96_6">	
 	</a>
 	<a href="#">
-		<img "https://s9i7q5a6.rocketcdn.me/solutions/wp-content/uploads/2022/10/IBMWatsonLogo.png" />
+		<img src="https://s9i7q5a6.rocketcdn.me/solutions/wp-content/uploads/2022/10/IBMWatsonLogo.png" />
 	</a>
 </p>
 
