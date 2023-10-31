@@ -12,7 +12,7 @@ The primary goals of utilizing big data analytics with cloud technology in healt
 # Major Components:
 <p align="center">
 	<a href="#">
-	 <img src="https://5.imimg.com/data5/SELLER/Default/2021/6/YD/SU/CA/">	
+	 <img src="https://d117h1jjiq768j.cloudfront.net/images/default-source/products/datadirect/data-sources/db2.png?sfvrsn=e27e2c96_6">	
 	</a>
 	<a href="#">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png" alt="hadoop" title="hadoop" width ="275" />
