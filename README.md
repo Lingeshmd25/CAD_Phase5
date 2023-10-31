@@ -1,6 +1,7 @@
 # Big Data Analytics Using IBM Cloud
       
 
- <img src="https://miro.medium.com/v2/resize:fit:3840/1*oAvN5VljZ8Nqymnf22LyXQ.jpeg">
+ <img src="https://enteriscloud.com/wp-content/uploads/2021/08/Cloud-Computing-Big-Data-Analytics-1536x864.png">
 
  # Requirement
+ 
